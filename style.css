@@ -1,0 +1,25 @@
+h1 {
+    font-weight: bold;
+    background: rgb(95, 50, 200);
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+div {
+    text-align: center;
+    background: rgb(50, 200, 100);
+}
+ul,
+ol { 
+    list-style-type: square;
+    list-style-position:inside;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ body {
+     background-color: rgb(95, 50, 200);
+ }
